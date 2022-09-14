@@ -18,7 +18,7 @@ It is a Mobile Application built with Flutter to help Instructors reach their st
 
 ### Dashboard_Overview
 
-This Dashboard is where admins can control Droos App by **Accepting** Pended accounts, **Verifiy** or **Unverifiy** the accounts and **Uploading** Lectures' Material ( Vedio, PDF, Exam ).
+This Dashboard is where admins can control Droos App by **Accepting** Pended accounts, **Verifiy** or **Unverifiy** the accounts and **Upload** Lectures' Material ( Video, PDF, Exam ).
 
 ### Dashboard_Screens
 
