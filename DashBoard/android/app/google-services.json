@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "895842378972",
+    "project_id": "droos-96ed2",
+    "storage_bucket": "droos-96ed2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895842378972:android:28d63458452e4eb8e60019",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895842378972-tea8k6vj6arn36mak0ul80dgirj3us2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsp47WpCK8jxkj3upV2m1rGGWtC3jqO8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895842378972-tea8k6vj6arn36mak0ul80dgirj3us2e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "895842378972-80n7altteovmg60ki2p9otklhkddhbs5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.droos"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895842378972:android:ca4becc6d7aeb0f7e60019",
+        "android_client_info": {
+          "package_name": "com.example.droos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895842378972-tktis0nrg1greli085njdljttqc62vs2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.droos",
+            "certificate_hash": "26a121eb09c6d089a86f30cf5f3a85545f4d59ed"
+          }
+        },
+        {
+          "client_id": "895842378972-tea8k6vj6arn36mak0ul80dgirj3us2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsp47WpCK8jxkj3upV2m1rGGWtC3jqO8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895842378972-tea8k6vj6arn36mak0ul80dgirj3us2e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "895842378972-80n7altteovmg60ki2p9otklhkddhbs5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.droos"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
